@@ -1,0 +1,7 @@
+Question 1
+The intrapage link scrolls to a different part of the page.
+Since I set the href of the intrapage tag to an css id, the link scrolls to the heading with that id.
+
+Question 2
+I chose an unordered list for this section.
+There is no inherent order for skills, and they were all self explanatory, making an unordered the logical choice.
